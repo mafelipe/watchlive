@@ -1,0 +1,15 @@
+2021/01/19-00:21:42.026 2c90 Reusing MANIFEST C:\Users\Matheus Felipe\Downloads\zero\Default\IndexedDB\https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/19-00:21:42.026 2c90 Recovering log #203
+2021/01/19-00:21:42.027 2c90 Reusing old log C:\Users\Matheus Felipe\Downloads\zero\Default\IndexedDB\https_www.twitch.tv_0.indexeddb.leveldb/000203.log 
+2021/01/19-00:22:14.035 33bc Level-0 table #208: started
+2021/01/19-00:22:14.037 33bc Level-0 table #208: 467 bytes OK
+2021/01/19-00:22:14.038 33bc Delete type=0 #203
+2021/01/19-00:22:14.038 33bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/19-00:22:14.038 33bc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0f\x00c\x00u\x00r\x00r\x00e\x00n\x00t\x00_\x00u\x00s\x00e\x00r\x00_\x00i\x00d' @ 895 : 1
+2021/01/19-00:22:14.038 33bc Compacting 1@1 + 1@2 files
+2021/01/19-00:22:14.039 33bc Generated table #209@1: 20 keys, 572 bytes
+2021/01/19-00:22:14.039 33bc Compacted 1@1 + 1@2 files => 572 bytes
+2021/01/19-00:22:14.040 33bc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/19-00:22:14.040 33bc Delete type=2 #205
+2021/01/19-00:22:14.040 33bc Delete type=2 #208
+2021/01/19-00:22:14.040 33bc Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0f\x00c\x00u\x00r\x00r\x00e\x00n\x00t\x00_\x00u\x00s\x00e\x00r\x00_\x00i\x00d' @ 895 : 1 .. (end); will stop at (end)

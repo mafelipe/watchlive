@@ -1,0 +1,5 @@
+2021/01/18-15:49:52.399 1af0 Reusing MANIFEST C:\Users\Matheus Felipe\Downloads\zero\Default\IndexedDB\https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/18-15:50:10.259 524 Level-0 table #5: started
+2021/01/18-15:50:10.261 524 Level-0 table #5: 1662 bytes OK
+2021/01/18-15:50:10.262 524 Delete type=0 #3
+2021/01/18-15:50:10.262 524 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

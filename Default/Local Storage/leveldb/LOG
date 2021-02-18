@@ -1,0 +1,42 @@
+2021/01/18-11:01:25.284 23e8 Reusing MANIFEST C:\Users\Matheus Felipe\Downloads\zero\Default\Local Storage\leveldb/MANIFEST-000001
+2021/01/18-11:01:25.285 23e8 Recovering log #73
+2021/01/18-11:01:25.287 23e8 Reusing old log C:\Users\Matheus Felipe\Downloads\zero\Default\Local Storage\leveldb/000073.log 
+2021/01/18-14:20:28.516 1af8 Level-0 table #77: started
+2021/01/18-14:20:28.518 1af8 Level-0 table #77: 14600 bytes OK
+2021/01/18-14:20:28.519 1af8 Delete type=0 #73
+2021/01/18-15:50:08.580 1f30 Level-0 table #79: started
+2021/01/18-15:50:08.585 1f30 Level-0 table #79: 250357 bytes OK
+2021/01/18-15:50:08.587 1f30 Delete type=0 #76
+2021/01/18-15:50:28.520 23ac Level-0 table #81: started
+2021/01/18-15:50:28.524 23ac Level-0 table #81: 329068 bytes OK
+2021/01/18-15:50:28.526 23ac Delete type=0 #78
+2021/01/18-15:50:28.526 1f30 Compacting 4@0 + 1@1 files
+2021/01/18-15:50:28.533 1f30 Generated table #82@0: 279 keys, 399671 bytes
+2021/01/18-15:50:28.533 1f30 Compacted 4@0 + 1@1 files => 399671 bytes
+2021/01/18-15:50:28.534 1f30 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/18-15:50:28.535 1f30 Delete type=2 #72
+2021/01/18-15:50:28.535 1f30 Delete type=2 #74
+2021/01/18-15:50:28.535 1f30 Delete type=2 #77
+2021/01/18-15:50:28.535 1f30 Delete type=2 #79
+2021/01/18-15:50:28.535 1f30 Delete type=2 #81
+2021/01/18-16:07:28.514 2b4c Level-0 table #84: started
+2021/01/18-16:07:28.520 2b4c Level-0 table #84: 478383 bytes OK
+2021/01/18-16:07:28.521 2b4c Delete type=0 #80
+2021/01/18-19:41:28.519 336c Level-0 table #86: started
+2021/01/18-19:41:28.521 336c Level-0 table #86: 18343 bytes OK
+2021/01/18-19:41:28.523 336c Delete type=0 #83
+2021/01/18-22:06:34.164 1538 Level-0 table #88: started
+2021/01/18-22:06:34.166 1538 Level-0 table #88: 26994 bytes OK
+2021/01/18-22:06:34.167 1538 Delete type=0 #85
+2021/01/19-01:42:28.505 3e6c Level-0 table #90: started
+2021/01/19-01:42:28.506 3e6c Level-0 table #90: 17358 bytes OK
+2021/01/19-01:42:28.507 3e6c Delete type=0 #87
+2021/01/19-01:42:28.507 22f8 Compacting 4@0 + 1@1 files
+2021/01/19-01:42:28.519 22f8 Generated table #91@0: 279 keys, 549792 bytes
+2021/01/19-01:42:28.519 22f8 Compacted 4@0 + 1@1 files => 549792 bytes
+2021/01/19-01:42:28.520 22f8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/19-01:42:28.520 22f8 Delete type=2 #82
+2021/01/19-01:42:28.520 22f8 Delete type=2 #84
+2021/01/19-01:42:28.520 22f8 Delete type=2 #86
+2021/01/19-01:42:28.520 22f8 Delete type=2 #88
+2021/01/19-01:42:28.520 22f8 Delete type=2 #90

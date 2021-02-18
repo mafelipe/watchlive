@@ -1,0 +1,14 @@
+2021/01/18-11:01:25.324 23e8 Reusing MANIFEST C:\Users\Matheus Felipe\Downloads\zero\Default\Session Storage/MANIFEST-000001
+2021/01/18-11:01:25.324 23e8 Recovering log #9
+2021/01/18-11:01:25.326 23e8 Reusing old log C:\Users\Matheus Felipe\Downloads\zero\Default\Session Storage/000009.log 
+2021/01/18-23:14:21.422 285c Level-0 table #13: started
+2021/01/18-23:14:21.425 285c Level-0 table #13: 18924 bytes OK
+2021/01/18-23:14:21.428 285c Delete type=0 #9
+2021/01/18-23:14:21.428 120 Compacting 4@0 + 0@1 files
+2021/01/18-23:14:21.431 120 Generated table #14@0: 111 keys, 8355 bytes
+2021/01/18-23:14:21.431 120 Compacted 4@0 + 0@1 files => 8355 bytes
+2021/01/18-23:14:21.432 120 compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/01/18-23:14:21.433 120 Delete type=2 #3
+2021/01/18-23:14:21.433 120 Delete type=2 #7
+2021/01/18-23:14:21.433 120 Delete type=2 #10
+2021/01/18-23:14:21.433 120 Delete type=2 #13

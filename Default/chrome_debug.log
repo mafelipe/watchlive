@@ -1,0 +1,29 @@
+[1209/193432.149:INFO:CONSOLE(1)] "Moving to buffered region 595.611 0", source: https://static.twitchcdn.net/assets/player-core-variant-b-5baa8bd96dd941b20fa7.js (1)
+[1209/193518.243:WARNING:gpu_process_host.cc(1266)] The GPU process has crashed 1 time(s)
+[1209/193518.311:WARNING:gpu_process_host.cc(990)] Reinitialized the GPU process after a crash. The reported initialization time was 34 ms
+[1209/193841.605:ERROR:tcp_socket_win.cc(352)] bind() returned an error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (0x2740)
+[1209/193844.619:ERROR:service_worker_storage.cc(1753)] Failed to delete the database: Database IO error
+[1209/193858.383:WARNING:leveldb_database.cc(105)] Unable to open C:\Users\Matheus Felipe\Downloads\zero\Default\VideoDecodeStats: IO error: C:\Users\Matheus Felipe\Downloads\zero\Default\VideoDecodeStats/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1209/193900.385:WARNING:leveldb_database.cc(105)] Unable to open C:\Users\Matheus Felipe\Downloads\zero\Default\shared_proto_db\metadata: IO error: C:\Users\Matheus Felipe\Downloads\zero\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1209/193901.363:INFO:CONSOLE(1)] "Moving to buffered region 0.049 0", source: https://static.twitchcdn.net/assets/player-core-variant-b-5baa8bd96dd941b20fa7.js (1)
+[1209/195233.207:ERROR:tcp_socket_win.cc(352)] bind() returned an error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (0x2740)
+[1209/195233.208:ERROR:tcp_socket_win.cc(352)] bind() returned an error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (0x2740)
+[1209/195233.208:ERROR:devtools_http_handler.cc(297)] Cannot start http server for devtools.
+[1209/195233.212:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acesso negado. (0x5)
+[1209/195233.212:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Matheus Felipe\Downloads\zero\Default\GPUCache to C:\Users\Matheus Felipe\Downloads\zero\Default\old_GPUCache_000
+[1209/195233.213:ERROR:disk_cache.cc(184)] Unable to create cache
+[1209/195233.213:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[1209/195236.238:ERROR:service_worker_storage.cc(1753)] Failed to delete the database: Database IO error
+[1209/195236.426:INFO:CONSOLE(1)] "Moving to buffered region 0.049 0", source: https://static.twitchcdn.net/assets/player-core-variant-b-5baa8bd96dd941b20fa7.js (1)
+[1209/195911.026:WARNING:gpu_process_host.cc(1266)] The GPU process has crashed 1 time(s)
+[1209/195911.097:WARNING:gpu_process_host.cc(990)] Reinitialized the GPU process after a crash. The reported initialization time was 35 ms
+[1209/195911.640:WARNING:gpu_process_host.cc(1266)] The GPU process has crashed 2 time(s)
+[1209/195911.711:WARNING:gpu_process_host.cc(990)] Reinitialized the GPU process after a crash. The reported initialization time was 36 ms
+[1209/195914.523:WARNING:gpu_process_host.cc(1266)] The GPU process has crashed 3 time(s)
+[1209/195916.942:INFO:CONSOLE(1)] "WebSocket connection to 'wss://irc-ws.chat.twitch.tv/' failed: Unknown reason", source: https://static.twitchcdn.net/assets/vendor-ceadcc4b6839249a1b82.js (1)
+[1209/195916.943:ERROR:network_service_instance_impl.cc(286)] Network service crashed, restarting service.
+[1209/195916.943:INFO:CONSOLE(1)] "WebSocket connection to 'wss://pubsub-edge.twitch.tv/v1' failed: Unknown reason", source: https://static.twitchcdn.net/assets/vendor-ceadcc4b6839249a1b82.js (1)
+[1209/195917.795:ERROR:network_service_instance_impl.cc(286)] Network service crashed, restarting service.
+[1209/195922.562:WARNING:gpu_process_host.cc(1266)] The GPU process has crashed 2 time(s)
+[1209/195922.629:WARNING:gpu_process_host.cc(990)] Reinitialized the GPU process after a crash. The reported initialization time was 33 ms
+[1209/195928.922:ERROR:network_service_instance_impl.cc(286)] Network service crashed, restarting service.

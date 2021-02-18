@@ -1,0 +1,15 @@
+2020/12/10-22:44:32.540 fb4 Reusing MANIFEST C:\Users\Matheus Felipe\Downloads\zero\Default\IndexedDB\https_bttsqjy6dnv05acplp5vy0mflgrh3z.ext-twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/10-22:44:32.540 fb4 Recovering log #4
+2020/12/10-22:44:32.540 fb4 Reusing old log C:\Users\Matheus Felipe\Downloads\zero\Default\IndexedDB\https_bttsqjy6dnv05acplp5vy0mflgrh3z.ext-twitch.tv_0.indexeddb.leveldb/000004.log 
+2020/12/10-23:10:07.445 2370 Level-0 table #8: started
+2020/12/10-23:10:07.447 2370 Level-0 table #8: 498 bytes OK
+2020/12/10-23:10:07.448 2370 Delete type=0 #4
+2020/12/10-23:10:07.448 2370 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/10-23:10:07.448 2370 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x001\x004\x007\x003\x009\x005\x003\x001\x005' @ 63 : 1
+2020/12/10-23:10:07.448 2370 Compacting 1@1 + 1@2 files
+2020/12/10-23:10:07.449 2370 Generated table #9@1: 17 keys, 596 bytes
+2020/12/10-23:10:07.449 2370 Compacted 1@1 + 1@2 files => 596 bytes
+2020/12/10-23:10:07.450 2370 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/10-23:10:07.450 2370 Delete type=2 #5
+2020/12/10-23:10:07.450 2370 Delete type=2 #8
+2020/12/10-23:10:07.451 2370 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x001\x004\x007\x003\x009\x005\x003\x001\x005' @ 63 : 1 .. (end); will stop at (end)
